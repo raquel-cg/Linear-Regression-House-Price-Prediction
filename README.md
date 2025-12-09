@@ -8,15 +8,6 @@ This project implements a predictive model for residential property prices using
 - Matplotlib & Seaborn for visualisation
 - Linear Regression for predictive modeling
 
-## Project Structure:
-linear-regression-ames/
-│── data/
-│   └── ames.csv                  # Dataset
-│── notebooks/
-│   └── Linear_Regression_Ames.ipynb   # Main analysis notebook
-│── README.md                     # Project overview
-│── requirements.txt              # Python dependencies
-
 ## Features: 
 - Data cleaning and preparation of housing dataset
 - Exploratory Data Analysis (EDA) with visualizations
